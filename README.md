@@ -352,6 +352,12 @@ Responsive web pages built with a focus on **usability, accessibility, and clean
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00ff9d&height=3&width=100%"/>
 
+===================== HACKERRANK ===================== --> <h2 align="center">🏅 HACKERRANK PROFILE</h2> <div align="center"> <a href="https://www.hackerrank.com/profile/musajankumaran" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/> </a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-Practice-00ff9d?style=for-the-badge&logo=hackerrank&logoColor=black"/> <img src="https://img.shields.io/badge/Java-Skill%20Badge-007396?style=for-the-badge&logo=hackerrank&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-Skill%20Badge-4479A1?style=for-the-badge&logo=hackerrank&logoColor=white"/> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00ff9d&height=3&width=100%"/> <!--
+
 <!-- ===================== CONNECT ===================== -->
 
 <h2 align="center">🌐 CONNECT WITH ME</h2>
