@@ -268,28 +268,28 @@ Responsive web pages built with a focus on **usability, accessibility, and clean
 
 ```text
 🏆 NoviTech Bootcamps (2024)
-   ├── Data Analytics
-   ├── MERN Stack
-   └── Virtual Mouse with OpenCV
+    :Data Analytics
+    :MERN Stack
+    :Virtual Mouse with OpenCV
 
 🏆 Wadhwani Foundation (2026)
-   └── Interpersonal & Soft Skills
+    :Interpersonal & Soft Skills
 
 🏆 Coursera (2026)
-   ├── Game Development with Scratch
-   └── Computer Vision with Azure Cognitive Services
+    :Game Development with Scratch
+    :Computer Vision with Azure Cognitive Services
 
 🏆 CodeBind Trainings (2025)
-   ├── Web Development Implant Training
-   ├── AI Workshop
-   ├── Online LMS Project
-   └── Corporate Aptitude Training
+     :Web Development Implant Training
+     :AI Workshop
+     :Online LMS Project
+     :Corporate Aptitude Training
 
 🏆 NPTEL (2026)
-   └── Programming in Java
+     :Programming in Java
 
 🏆 TESTYANTRA (2026)
-   └── Problem Solving using Java
+     :Problem Solving using Java
 ```
 </div>
 
@@ -315,7 +315,7 @@ Responsive web pages built with a focus on **usability, accessibility, and clean
 <!-- ===================== 2026 GOALS ===================== -->
 
 <h2 align="center">🎯 2026 GOALS</h2>
-
+<div align="center">
 ```text
 [████████████████░░░░]  Strengthen Cybersecurity Skills
 [██████████████░░░░░░]  Master Network Security
@@ -326,7 +326,7 @@ Responsive web pages built with a focus on **usability, accessibility, and clean
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00ff9d&height=3&width=100%"/>
-
+</div>
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
 <h2 align="center">📈 GITHUB ANALYTICS</h2>
