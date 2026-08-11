@@ -264,6 +264,7 @@ Responsive web pages built with a focus on **usability, accessibility, and clean
 <!-- ===================== CERTIFICATIONS ===================== -->
 
 <h2 align="center">📜 CERTIFICATIONS</h2>
+<div align="center">
 
 ```text
 🏆 NoviTech Bootcamps (2024)
@@ -290,6 +291,7 @@ Responsive web pages built with a focus on **usability, accessibility, and clean
 🏆 TESTYANTRA (2026)
    └── Problem Solving using Java
 ```
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00ff9d&height=3&width=100%"/>
 
