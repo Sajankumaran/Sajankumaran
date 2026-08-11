@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sajankumaran-mu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sajankumaran-mu-867314311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://sajankumaran.github.io/My_portfolio/"><img src="https://img.shields.io/badge/Portfolio-00FF9D?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
 <a href="mailto:musajankumaran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
@@ -184,7 +184,7 @@ I enjoy exploring security tools, analyzing network activity, understanding vuln
 </div>
 
 A security-focused project designed to hide confidential information inside digital images using the **Least Significant Bit (LSB)** steganography technique.
-<div align="center">
+
 ```text
 🖼️ Input Image
       ↓
@@ -205,7 +205,7 @@ A security-focused project designed to hide confidential information inside digi
 - 🛡️ Focus on privacy and secure communication
 
 `Concept: Steganography` `Focus: Data Security` `Technique: LSB Encoding`
-</div>
+
 ---
 
 <div align="center">
@@ -215,7 +215,7 @@ A security-focused project designed to hide confidential information inside digi
 </div>
 
 A web-based **Learning Management System** built to provide a centralized platform for managing courses, learning resources, and student activity.
-<div align="center">
+
 ```text
 👨‍🎓 Student                      👨‍🏫 Instructor
    │                                │
@@ -235,7 +235,7 @@ A web-based **Learning Management System** built to provide a centralized platfo
 - 🔐 Structured user and course management
 
 `HTML` `CSS` `JavaScript` `SQL` `Web Development`
-</div>
+
 ---
 
 <div align="center">
@@ -315,7 +315,7 @@ Responsive web pages built with a focus on **usability, accessibility, and clean
 <!-- ===================== 2026 GOALS ===================== -->
 
 <h2 align="center">🎯 2026 GOALS</h2>
-<div align="center">
+
 ```text
 [████████████████░░░░]  Strengthen Cybersecurity Skills
 [██████████████░░░░░░]  Master Network Security
@@ -326,7 +326,7 @@ Responsive web pages built with a focus on **usability, accessibility, and clean
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00ff9d&height=3&width=100%"/>
-</div>
+
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
 <h2 align="center">📈 GITHUB ANALYTICS</h2>
@@ -354,16 +354,17 @@ Responsive web pages built with a focus on **usability, accessibility, and clean
 
 <!-- ===================== HACKERRANK ===================== --> <h2 align="center">🏅 HACKERRANK PROFILE</h2> <div align="center"> <a href="https://www.hackerrank.com/profile/musajankumaran" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/> </a>
 
-<br><br>
+<!-- ===================== QUOTE ===================== --> <h2 align="center">
+### ✍️ QUOTE
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://img.shields.io/badge/Problem%20Solving-Practice-00ff9d?style=for-the-badge&logo=hackerrank&logoColor=black"/> <img src="https://img.shields.io/badge/Java-Skill%20Badge-007396?style=for-the-badge&logo=hackerrank&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-Skill%20Badge-4479A1?style=for-the-badge&logo=hackerrank&logoColor=white"/> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00ff9d&height=3&width=100%"/> <!--
 
 <!-- ===================== CONNECT ===================== -->
 
 <h2 align="center">🌐 CONNECT WITH ME</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sajankumaran-mu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sajankumaran-mu-867314311"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://sajankumaran.github.io/My_portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-00FF9D?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
 <a href="mailto:musajankumaran@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
