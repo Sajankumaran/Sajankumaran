@@ -244,13 +244,13 @@ A web-based **Learning Management System** built to provide a centralized platfo
 
 </div>
 
-Responsive web pages built with a focus on **usability, accessibility, and clean layouts**.
+                          Responsive web pages built with a focus on "usability, accessibility, and clean layouts".
 
-- 🎨 Responsive UI design
-- 🌐 Front-end development
-- 📱 Mobile-friendly layouts
-- ⚡ User experience improvements
-- 🧩 Web content development
+                                                       - 🎨 Responsive UI design
+                                                       - 🌐 Front-end development
+                                                       - 📱 Mobile-friendly layouts
+                                                       - ⚡ User experience improvements
+                                                       - 🧩 Web content development
 
 <div align="center">
 
@@ -317,12 +317,12 @@ Responsive web pages built with a focus on **usability, accessibility, and clean
 <h2 align="center">🎯 2026 GOALS</h2>
 
 ```text
-[████████████████░░░░]  Strengthen Cybersecurity Skills
-[██████████████░░░░░░]  Master Network Security
-[████████████░░░░░░░░]  Build Security Projects
-[██████████░░░░░░░░░░]  Learn SOC & SIEM Tools
-[████████░░░░░░░░░░░░]  Improve Linux Security Skills
-[██████░░░░░░░░░░░░░░]  Earn Cybersecurity Certifications
+                                    [████████████████░░░░]  Strengthen Cybersecurity Skills
+                                    [██████████████░░░░░░]  Master Network Security
+                                    [████████████░░░░░░░░]  Build Security Projects
+                                    [██████████░░░░░░░░░░]  Learn SOC & SIEM Tools
+                                    [████████░░░░░░░░░░░░]  Improve Linux Security Skills
+                                    [██████░░░░░░░░░░░░░░]  Earn Cybersecurity Certifications
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00ff9d&height=3&width=100%"/>
