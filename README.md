@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/sajankumaran-mu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://sajankumaran.github.io/My_portfolio/"><img src="https://img.shields.io/badge/Portfolio-00FF9D?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
 <a href="mailto:musajankumaran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="tel:9342931734"><img src="https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
 
 <img src="https://komarev.com/ghpvc/?username=sajankumaran-mu&label=Profile%20Views&color=00ff9d&style=for-the-badge"/>
 
