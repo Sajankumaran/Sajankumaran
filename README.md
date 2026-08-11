@@ -103,7 +103,7 @@ I enjoy exploring security tools, analyzing network activity, understanding vuln
 <br><br>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web%20App%20Security-111111?style=for-the-badge&logo=security&logoColor=00FF9D"/>
+<img src="https://img.shields.io/badge/Web%20App%20Security-1679A9?style=for-the-badge&logo=security&logoColor=00FF9D"/>
 </p>
 
 <h3 align="center">🧰 Tools & Platforms</h3>
