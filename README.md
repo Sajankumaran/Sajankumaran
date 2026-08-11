@@ -184,7 +184,7 @@ I enjoy exploring security tools, analyzing network activity, understanding vuln
 </div>
 
 A security-focused project designed to hide confidential information inside digital images using the **Least Significant Bit (LSB)** steganography technique.
-
+<div align="center">
 ```text
 🖼️ Input Image
       ↓
@@ -205,7 +205,7 @@ A security-focused project designed to hide confidential information inside digi
 - 🛡️ Focus on privacy and secure communication
 
 `Concept: Steganography` `Focus: Data Security` `Technique: LSB Encoding`
-
+</div>
 ---
 
 <div align="center">
@@ -215,7 +215,7 @@ A security-focused project designed to hide confidential information inside digi
 </div>
 
 A web-based **Learning Management System** built to provide a centralized platform for managing courses, learning resources, and student activity.
-
+<div align="center">
 ```text
 👨‍🎓 Student                      👨‍🏫 Instructor
    │                                │
@@ -235,7 +235,7 @@ A web-based **Learning Management System** built to provide a centralized platfo
 - 🔐 Structured user and course management
 
 `HTML` `CSS` `JavaScript` `SQL` `Web Development`
-
+</div>
 ---
 
 <div align="center">
@@ -352,7 +352,7 @@ Responsive web pages built with a focus on **usability, accessibility, and clean
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00ff9d&height=3&width=100%"/>
 
-===================== HACKERRANK ===================== --> <h2 align="center">🏅 HACKERRANK PROFILE</h2> <div align="center"> <a href="https://www.hackerrank.com/profile/musajankumaran" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/> </a>
+<!-- ===================== HACKERRANK ===================== --> <h2 align="center">🏅 HACKERRANK PROFILE</h2> <div align="center"> <a href="https://www.hackerrank.com/profile/musajankumaran" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/> </a>
 
 <br><br>
 
