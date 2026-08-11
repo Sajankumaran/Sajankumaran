@@ -1,9 +1,4 @@
-## Hi there,  I'm M U Sajan Kumaran  👋
-
-<!--
-**Sajankumaran/Sajankumaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+# Hi, I'm M U Sajan Kumaran 👋
 
 ### Cybersecurity Enthusiast | Computer Science Student | Future Blue Team Operator 🛡️
 
