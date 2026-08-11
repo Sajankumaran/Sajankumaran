@@ -54,29 +54,29 @@ I enjoy exploring security tools, analyzing network activity, understanding vuln
 <div align="center">
 
 ```text
-             ┌────────────────────────┐
-             │    NETWORK SECURITY    │
-             └────────────┬───────────┘
-                ↓  
-             ┌────────────────────────┐
-             │    THREAT DETECTION    │
-             └────────────┬───────────┘
-              ↓
-             ┌────────────────────────┐
-             │ VULNERABILITY ANALYSIS │
-             └────────────┬───────────┘
-                             ↓               
-             ┌────────────────────────┐
-             │  SECURITY MONITORING   │
-             └────────────┬───────────┘
-              ↓
-             ┌────────────────────────┐
-             │   INCIDENT RESPONSE    │
-             └────────────┬───────────┘
-              ↓
-             ┌────────────────────────┐
-             │     🔵 BLUE TEAM       │
-             └────────────────────────┘
+ ┌────────────────────────┐
+ │    NETWORK SECURITY    │
+ └────────────┬───────────┘
+    ↓  
+ ┌────────────────────────┐
+ │    THREAT DETECTION    │
+ └────────────┬───────────┘
+  ↓
+ ┌────────────────────────┐
+ │ VULNERABILITY ANALYSIS │
+ └────────────┬───────────┘
+                 ↓               
+ ┌────────────────────────┐
+ │  SECURITY MONITORING   │
+ └────────────┬───────────┘
+  ↓
+ ┌────────────────────────┐
+ │   INCIDENT RESPONSE    │
+ └────────────┬───────────┘
+  ↓
+ ┌────────────────────────┐
+ │     🔵 BLUE TEAM       │
+ └────────────────────────┘
 ```
 
 </div>
@@ -260,14 +260,15 @@ I enjoy exploring security tools, analyzing network activity, understanding vuln
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00ff9d&height=3&width=100%"/>
 
 <!-- ===================== HACKERRANK ===================== --> <h2 align="center">🏅 HACKERRANK PROFILE</h2> <div align="center"> <a href="https://www.hackerrank.com/profile/musajankumaran" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/> </a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00ff9d&height=3&width=100%"/>
 
 <!-- ===================== QUOTE ===================== --> <h2 align="center">
 ### ✍️ QUOTE
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00ff9d&height=3&width=100%"/>
 
 <!-- ===================== CONNECT ===================== -->
 
@@ -290,3 +291,4 @@ I enjoy exploring security tools, analyzing network activity, understanding vuln
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:203a43,100:0f2027&height=120&section=footer"/>
 
 </div>
+
