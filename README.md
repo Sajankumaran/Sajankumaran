@@ -171,39 +171,6 @@ I enjoy exploring security tools, analyzing network activity, understanding vuln
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00ff9d&height=3&width=100%"/>
 
 
-<!-- ===================== CERTIFICATIONS ===================== -->
-
-<h2 align="center">📜 CERTIFICATIONS</h2>
-<div align="center">
-
-```text
-🏆 NoviTech Bootcamps (2024)
-    :Data Analytics
-    :MERN Stack
-    :Virtual Mouse with OpenCV
-
-🏆 Wadhwani Foundation (2026)
-    :Interpersonal & Soft Skills
-
-🏆 Coursera (2026)
-    :Game Development with Scratch
-    :Computer Vision with Azure Cognitive Services
-
-🏆 CodeBind Trainings (2025)
-     :Web Development Implant Training
-     :AI Workshop
-     :Online LMS Project
-     :Corporate Aptitude Training
-
-🏆 NPTEL (2026)
-     :Programming in Java
-
-🏆 TESTYANTRA (2026)
-     :Problem Solving using Java
-```
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00ff9d&height=3&width=100%"/>
 
 <!-- ===================== CURRENTLY LEARNING ===================== -->
 
