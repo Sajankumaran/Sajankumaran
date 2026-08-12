@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/sajankumaran-mu-867314311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://sajankumaran.github.io/My_portfolio/"><img src="https://img.shields.io/badge/Portfolio-00FF9D?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+<a href="https://sajankumaranportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00FF9D?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
 <a href="mailto:musajankumaran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
@@ -243,7 +243,7 @@ I enjoy exploring security tools, analyzing network activity, understanding vuln
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sajankumaran-mu-867314311"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://sajankumaran.github.io/My_portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-00FF9D?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
+<a href="https://sajankumaranportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00FF9D?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
 <a href="mailto:musajankumaran@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
